@@ -1,0 +1,12 @@
+[
+  { "id": "d1", "name": "Разработка", "companyId": "c1" },
+  { "id": "d2", "name": "Человеческие ресурсы", "companyId": "c2" },
+  { "id": "d3", "name": "Продуктовый отдел", "companyId": "c1" },
+  { "id": "d4", "name": "Дизайн", "companyId": "c3" },
+  { "id": "d5", "name": "Маркетинг", "companyId": "c3" },
+  { "id": "d6", "name": "Финансовый отдел", "companyId": "c2" },
+  { "id": "d7", "name": "Инфраструктура", "companyId": "c1" },
+  { "id": "d8", "name": "Аналитика", "companyId": "c2" },
+  { "id": "d9", "name": "Управление", "companyId": "c1" },
+  { "id": "d10", "name": "Поддержка", "companyId": "c2" }
+]
